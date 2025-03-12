@@ -6,8 +6,8 @@
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
+    "ip": "mostafaayyad.aternos.me",
+    "port": 57935,
     "version": "1.19.3"
   },
 
